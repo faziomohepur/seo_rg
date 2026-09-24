@@ -1,0 +1,23 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "jtmc",
+	"main": "./src/index.ts",
+	"compatibility_date": "2026-09-22",
+	"compatibility_flags": ["nodejs_compat"],
+	"observability": {
+		"enabled": true
+	},
+	"upload_source_maps": true,
+	"assets": {
+		"directory": ".",
+		"not_found_handling": "single-page-application"
+	},
+	"scripts": {
+		"deploy": "wrangler deploy",
+		"dev": "wrangler dev",
+		"start": "wrangler dev"
+	},
+	"devDependencies": {
+		"wrangler": "^3.101.0"
+	},
+}
