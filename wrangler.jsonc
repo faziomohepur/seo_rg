@@ -1,6 +1,6 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "seo-rg",
+	"name": "seorg",
 	"compatibility_date": "2026-09-22",
 	"compatibility_flags": ["nodejs_compat"],
 	"observability": {
