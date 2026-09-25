@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # SEO VỊ TRI RẠCH GIÁ
+=======
+
+>>>>>>> 06294f2f8d8f43b7f6bfb24a1f5e031b3e6b6b8b
 
 Trang giới thiệu (landing page) một trang cho dịch vụ xe điện A&T tại Rạch Giá, Kiên Giang: đưa đón sân bay/bến tàu, tham quan nội ô, xe cưới hỏi - sự kiện, cho thuê theo giờ/ngày. Khách đặt xe qua điện thoại/Zalo (0852 755 277) hoặc gửi form đặt xe ngay trên trang.
 
